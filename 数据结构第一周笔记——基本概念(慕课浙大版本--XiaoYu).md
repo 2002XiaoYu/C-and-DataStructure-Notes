@@ -1,7 +1,3 @@
----
-typora-copy-images-to: upload
----
-
 # 数据结构第一周笔记——基本概念(慕课浙大版本--XiaoYu)
 
 ## 数据结构定义
